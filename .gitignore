@@ -1,0 +1,61 @@
+# Unity-generated local state.
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]serSettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Restored by the pinned Unity-MCP dependency resolver on first interactive import.
+/Assets/Plugins/NuGet/
+/Assets/Plugins/NuGet.meta
+/Assets/Plugins.meta
+
+# Rebuilt bundles and players. Auto-generated sprite atlases remain tracked.
+/[Aa]ssetBundles/
+/[Bb]uild/
+/[Bb]uilds/
+/Assets/StreamingAssets/MainModule/
+/Assets/StreamingAssets/MainModule.meta
+/Assets/StreamingAssets.meta
+sysinfo.txt
+crashlytics-build.properties
+
+# IDE and local tools.
+.vs/
+.idea/
+*.csproj
+*.sln
+*.slnx
+*.unityproj
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.pidb.meta
+*.opendb
+*.VC.db
+*.tmp
+*.orig
+.ai-game-dev/
+.kilo/
+.kilocode/
+.opencode/
+.agents/
+.claude/
+.codex/
+
+# Local XF settings can contain credentials.
+/ProjectSettings/XFGameFramework.*.asset
+.env
+.env.*
+*.private
+*.private.*
+*.pfx
+*.p12
+*.keystore
+.DS_Store
+Thumbs.db
+Desktop.ini
+~UnityDirMonSyncFile~*
